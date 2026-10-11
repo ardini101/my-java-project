@@ -1,6 +1,6 @@
 ## Your Info:
-1. Matric Number
-1. Name
+1. Matric Number: 297238
+1. Name: Ardini Faihana Binti Fairol Anuar
 
 ## Instruction
 1. Install the latest OpenJDK (LTS). Video --> [Java | How to install OpenJDK 15 on Windows 10](https://youtu.be/KaUeS5bwvCw)
@@ -9,5 +9,8 @@
 1. The screenshot of the result/output must be displayed at your `Readme.md`.
 
 ## Screenshot of result/output
-1. JDK & Git
-2. IDE
+### 1. JDK & Git
+![JDK and Git output](images/jdk-git-output.png)
+
+### 2. IDE
+![IDE output](images/ide-output.png)
